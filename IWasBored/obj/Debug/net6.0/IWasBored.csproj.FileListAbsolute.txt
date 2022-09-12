@@ -1,0 +1,15 @@
+C:\Users\Win10Pro\Desktop\IWasBored\IWasBored\bin\Debug\net6.0\IWasBored.exe
+C:\Users\Win10Pro\Desktop\IWasBored\IWasBored\bin\Debug\net6.0\IWasBored.deps.json
+C:\Users\Win10Pro\Desktop\IWasBored\IWasBored\bin\Debug\net6.0\IWasBored.runtimeconfig.json
+C:\Users\Win10Pro\Desktop\IWasBored\IWasBored\bin\Debug\net6.0\IWasBored.dll
+C:\Users\Win10Pro\Desktop\IWasBored\IWasBored\bin\Debug\net6.0\IWasBored.pdb
+C:\Users\Win10Pro\Desktop\IWasBored\IWasBored\obj\Debug\net6.0\IWasBored.csproj.AssemblyReference.cache
+C:\Users\Win10Pro\Desktop\IWasBored\IWasBored\obj\Debug\net6.0\IWasBored.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10Pro\Desktop\IWasBored\IWasBored\obj\Debug\net6.0\IWasBored.AssemblyInfoInputs.cache
+C:\Users\Win10Pro\Desktop\IWasBored\IWasBored\obj\Debug\net6.0\IWasBored.AssemblyInfo.cs
+C:\Users\Win10Pro\Desktop\IWasBored\IWasBored\obj\Debug\net6.0\IWasBored.csproj.CoreCompileInputs.cache
+C:\Users\Win10Pro\Desktop\IWasBored\IWasBored\obj\Debug\net6.0\IWasBored.dll
+C:\Users\Win10Pro\Desktop\IWasBored\IWasBored\obj\Debug\net6.0\refint\IWasBored.dll
+C:\Users\Win10Pro\Desktop\IWasBored\IWasBored\obj\Debug\net6.0\IWasBored.pdb
+C:\Users\Win10Pro\Desktop\IWasBored\IWasBored\obj\Debug\net6.0\IWasBored.genruntimeconfig.cache
+C:\Users\Win10Pro\Desktop\IWasBored\IWasBored\obj\Debug\net6.0\ref\IWasBored.dll
