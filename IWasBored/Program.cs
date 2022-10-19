@@ -101,6 +101,23 @@ string determineWinner()
         return "O";
     }
 
+    int emptyFields = 9;
+    // Checking if it is draw
+    for (int i = 0; i < 3; i++)
+    {
+        for (int j = 0; j < 3; j++)
+        {
+            if (points[j, i] != ' ')
+            {
+                emptyFields--;
+            }
+        }
+    }
+    if (emptyFields <= 0)
+    {
+        return "ops.. it's actually draw XP";
+    }
+
     return "none";
 }
 
